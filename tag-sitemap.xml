@@ -2,41 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://www.zhouke.work/tags/hexo/</loc>
-        <lastmod>2018-01-29T10:10:51.189Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://www.zhouke.work/tags/next/</loc>
-        <lastmod>2018-01-29T10:10:51.189Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://www.zhouke.work/tags/mariadb/</loc>
-        <lastmod>2018-03-26T08:39:35.447Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://www.zhouke.work/tags/nginx/</loc>
-        <lastmod>2018-03-26T08:39:58.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://www.zhouke.work/tags/KNN/</loc>
-        <lastmod>2018-03-26T10:09:21.209Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://www.zhouke.work/tags/Hexo/</loc>
         <lastmod>2018-03-26T10:55:08.013Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -46,6 +11,41 @@
     <url>
         <loc>http://www.zhouke.work/tags/Blog/</loc>
         <lastmod>2018-03-26T10:55:08.013Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.zhouke.work/tags/mariadb/</loc>
+        <lastmod>2018-03-26T11:34:28.696Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.zhouke.work/tags/hexo/</loc>
+        <lastmod>2018-03-26T11:34:42.346Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.zhouke.work/tags/next/</loc>
+        <lastmod>2018-03-26T11:34:42.346Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.zhouke.work/tags/KNN/</loc>
+        <lastmod>2018-03-26T11:34:50.657Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.zhouke.work/tags/nginx/</loc>
+        <lastmod>2018-03-26T11:34:58.321Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
